@@ -3,7 +3,4 @@
 	url = https://github.com/JSU-CS491-Spring-2013/Website.git
 [submodule "applet"]
 	path = applet
-	url = https://code.google.com/p/jsu-cs491-fall-2012-applet/
-[submodule "parser"]
-	path = parser
-	url = https://code.google.com/p/jsu-cs491-fall-2012-parser/
+	url = https://github.com/JSU-CS491-Spring-2013/Applet.git
